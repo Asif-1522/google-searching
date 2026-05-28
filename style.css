@@ -12,19 +12,19 @@ body{
 }
 div{
     background-color: #ffffff;
-    width: 600px;
-    padding: 50px 0px;
+    width: 400px;
+    padding: 30px 0px;
     text-align: center;
     border-radius: 10px;
 }
 img{
-    width: 200px;
+    width: 100px;
     height: auto;
 }
 input{
     padding: 10px;
     border-radius: 5px;
-    width: 400px;
+    width: 250px;
 }
 button{
     padding: 5px;
